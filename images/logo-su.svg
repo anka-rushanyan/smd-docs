@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 186.47 274.35">
+    <defs>
+        <style>.cls-1{fill:#fff;}.cls-2{clip-path:url(#clip-path);}</style>
+        <clipPath id="clip-path">
+            <path class="cls-1"
+                  d="M51.13,83.34v38.21L93.24,97.24,153.38,132v69.45L93.24,236.14,0,182.31v38.21l93.24,53.83,93.23-53.83V112.86L93.24,59ZM93.24,0,0,53.83V161.49l93.24,53.83L135.34,191V152.79L93.24,177.11,33.09,142.38V72.93L93.24,38.21,186.47,92V53.83Z"/>
+        </clipPath>
+    </defs>
+    <title>Vector Smart Object</title>
+    <path class="cls-1"
+          d="M51.13,83.34v38.21L93.24,97.24,153.38,132v69.45L93.24,236.14,0,182.31v38.21l93.24,53.83,93.23-53.83V112.86L93.24,59ZM93.24,0,0,53.83V161.49l93.24,53.83L135.34,191V152.79L93.24,177.11,33.09,142.38V72.93L93.24,38.21,186.47,92V53.83Z"/>
+    <g class="cls-2">
+        <rect class="cls-1" x="-72.5" y="-14.54" width="331.46" height="303.43"
+              transform="translate(-72.5 143.65) rotate(-58.04)"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 227.38 247.12">
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}</style>
+        <clipPath id="clip-path">
+            <path class="cls-1"
+                  d="M111.48,192.41H.77a123.7,123.7,0,0,0,96,54.71l31.59-54.71Zm55.69-41.24L111.82,247a122.89,122.89,0,0,0,55.24-17.22,124.47,124.47,0,0,0,40.14-38.62l-31.57-54.67ZM150.83,67.68l8.46,14.64,55.35,95.86a123.49,123.49,0,0,0-.6-110.5ZM0,55.89,31.59,110.6,40.05,96,53.42,72.79,63.86,54.72,95.38.12A123.71,123.71,0,0,0,0,55.89M110.41,0,78.82,54.72H206.47A123.65,123.65,0,0,0,110.41,0Z"/>
+        </clipPath>
+    </defs>
+    <title>logo-w</title>
+    <g class="cls-2">
+        <rect class="cls-3" x="-48.81" y="-41.89" width="325.01" height="330.9"
+              transform="translate(-48.81 81.31) rotate(-32.81)"/>
+    </g>
+</svg>
